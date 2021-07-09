@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+
+    <path
+        android:strokeColor="#1c4db8"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M14.852,43.409l4.312-0.871a1.038,1.038,0,0,1,1.295 0.86 l2.614,12.935a1.039,1.039,0,0,1-0.86,1.3L17.9,58.5" />
+    <path
+        android:strokeColor="#1c4db8"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M20.677,44.476l2.156-0.435a2.955,2.955,0,0,0,1.938-1.514c0-0.036,3.381-4.711,4.571-4.98s1.7 0.1 ,1.972 0.9" />
+    <path
+        android:strokeColor="#1c4db8"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M22.638,54.177c4.663,1.262,6.731,2.006,9.276,1.492l5.929-1.2c2.155-0.436,2.529-0.627,2.8-2.81 0.424 -3.451 0.414 -9.055 0.413 -9.058-0.218-1.078-1.513-1.938-3.669-1.5l-7.273,1.47" />
+    <path
+        android:strokeColor="#1c4db8"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M 30.813 29.623 H 36.593 V 41.722 H 30.813 V 29.623 Z" />
+    <path
+        android:fillColor="#e82e5f"
+        android:pathData="M 27.919 14.51 L 27.889 20.004 L 32.49 19.075 L 32.519 13.58 L 27.919 14.51 Z" />
+    <path
+        android:fillColor="#e82e5f"
+        android:pathData="M51.042,24.977,46.429,2.148A1.75,1.75,0,0,0,44.367 0.779 L10.328,7.657a1.75,1.75,0,0,0-1.37,2.062l4.613,22.829a1.754,1.754,0,0,0,1.716,1.4,1.779,1.779,0,0,0,0.346-0.034l34.039-6.878a1.752,1.752,0,0,0,1.37-2.062ZM38.366,20.438l-3.387 0.685 L34.964,23.9a1.251,1.251,0,0,1-1.25,1.244h-0.007a1.25,1.25,0,0,1-1.243-1.257l0.012-2.256-4.6 0.929 -0.015,2.776a1.25,1.25,0,0,1-1.25,1.243H26.6A1.25,1.25,0,0,1,25.36,25.32l0.012-2.256-2.09 0.422 a1.25,1.25,0,1,1-0.5-2.451l2.6-0.525 0.03 -5.494-2.585 0.522 a1.25,1.25,0,1,1-0.5-2.451l3.094-0.625 0.01 -1.994a1.25,1.25,0,0,1,1.25-1.243H26.7a1.249,1.249,0,0,1,1.243,1.256l-0.008,1.475,4.6-0.93 0.011 -1.993a1.25,1.25,0,0,1,1.25-1.243H33.8a1.25,1.25,0,0,1,1.243,1.257l-0.008,1.474,2.384-0.482a1.25,1.25,0,1,1,0.495,2.451l-2.893 0.585 -0.029,5.494,2.878-0.582a1.25,1.25,0,0,1,0.495,2.451Z" />
+</vector>

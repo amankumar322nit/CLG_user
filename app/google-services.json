@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "283712428719",
+    "firebase_url": "https://my-clg-app-default-rtdb.firebaseio.com",
+    "project_id": "my-clg-app",
+    "storage_bucket": "my-clg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283712428719:android:fadef1ff2956b68e0e525a",
+        "android_client_info": {
+          "package_name": "com.example.clgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283712428719-fpd592ko69dindedrmokih2236kt06gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRWUupr_PGxUoW6mbF541LMmQfJktYvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283712428719-fpd592ko69dindedrmokih2236kt06gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283712428719:android:26952174302a1fa00e525a",
+        "android_client_info": {
+          "package_name": "com.example.clguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283712428719-fpd592ko69dindedrmokih2236kt06gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRWUupr_PGxUoW6mbF541LMmQfJktYvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283712428719-fpd592ko69dindedrmokih2236kt06gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
